@@ -1,0 +1,42 @@
+{
+  "llava": {
+    "ROUGE-1": 0.2396,
+    "ROUGE-2": 0.0412,
+    "ROUGE-L": 0.1312,
+    "BLEU": 0.0094,
+    "METEOR": 0.1106,
+    "BERTScore": 0.0169
+  },
+  "phi 3.5 vision": {
+    "ROUGE-1": 0.2265,
+    "ROUGE-2": 0.0321,
+    "ROUGE-L": 0.1289,
+    "BLEU": 0.0055,
+    "METEOR": 0.1083,
+    "BERTScore": 0.0161
+  },
+  "pixtral": {
+    "ROUGE-1": 0.1997,
+    "ROUGE-2": 0.0248,
+    "ROUGE-L": 0.116,
+    "BLEU": 0.0049,
+    "METEOR": 0.1004,
+    "BERTScore": 0.0173
+  },
+  "gpt-4o-mini": {
+    "ROUGE-1": 0.2654,
+    "ROUGE-2": 0.0485,
+    "ROUGE-L": 0.1525,
+    "BLEU": 0.0092,
+    "METEOR": 0.1346,
+    "BERTScore": 0.0169
+  },
+  "gpt-4o": {
+    "ROUGE-1": 0.3727,
+    "ROUGE-2": 0.0901,
+    "ROUGE-L": 0.1941,
+    "BLEU": 0.0633,
+    "METEOR": 0.2179,
+    "BERTScore": 0.0506
+  }
+}
